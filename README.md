@@ -4,7 +4,7 @@ Desafio de cria uma página fake do Facebook para um ataque de phishing.
 <b>Ferramentas</b>
 <br>KaliLinux</br>
 Kit de ferramentas
-<p></p>
+
 <b><br>Configurando o Phishing no Kali Linux</b><br>
 <br>Acesso raiz: <b>sudo su</b></br>
 <br>Iniciando o setoolkit: <b>setoolkit</b></br>
