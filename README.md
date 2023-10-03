@@ -1,8 +1,10 @@
 # cibersecurity-desafio-dio-phishing
-Desafio de cria uma página fake do Facebook para um ataque de phishing
+Desafio de cria uma página fake do Facebook para um ataque de phishing.
+
 Ferramentas
-KaliLinux
-kit de ferramentas
+*KaliLinux
+*Kit de ferramentas
+
 Configurando o Phishing no Kali Linux
 Acesso raiz:sudo su
 Iniciando o setoolkit:setoolkit
@@ -11,4 +13,7 @@ Vetor de ataque:Web Site Attack Vectors
 Método de ataque:Credential Harvester Attack Method 
 Método de ataque:Site Cloner
 Obtendo o endereço da máquina:ifconfig
+
 URL para clonar: http://www.facebook.com
+
+Resultado
