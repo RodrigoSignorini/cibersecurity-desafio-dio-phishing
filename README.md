@@ -1,8 +1,7 @@
 # cibersecurity-desafio-dio-phishing
-(PROJETO_DIO.ME) Desafio de cria uma página fake do Facebook para um ataque de phishing.
+(PROJETO_DIO.ME) Desafio de cria uma página fake do Google para um ataque de phishing.
 
-# Phishing para captura de senhas do Facebook
-
+# Phishing para captura de senhas do Google
 ### Ferramentas
 
 - Kali Linux
@@ -17,6 +16,6 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.google.com
 
 ### Resutados
